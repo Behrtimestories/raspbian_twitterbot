@@ -1,3 +1,5 @@
+# Copied from file_list.py. Need to just update everything
+
 
 # import the important bits we'll be using. In this case, just the os module
 import os
