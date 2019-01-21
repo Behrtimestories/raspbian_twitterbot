@@ -1,3 +1,7 @@
+
+#Seekrit keys for the Twitter API
+#See https://developer.twitter.com/ to get started if you don't already have these keys
+
 consumer_key = 'update'
 consumer_secret = 'update'
 access_token = 'update'
